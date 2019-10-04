@@ -4,7 +4,7 @@
 
 div#wall #tag-3.slick {
   background: transparent;
-  z-index: 5;
+  z-index: 4;
   display: none;
 }
 #wall .parent {
