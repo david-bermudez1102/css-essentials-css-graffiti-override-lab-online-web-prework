@@ -2,8 +2,7 @@
   display: none;
 }
 
-#wall #tag-3.slick {
-  background: transparent;
+#wall #tag-3 .slick {
   z-index: 4;
   display: none;
 }
