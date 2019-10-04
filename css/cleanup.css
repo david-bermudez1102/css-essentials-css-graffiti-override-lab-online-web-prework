@@ -2,7 +2,7 @@
   display: none;
 }
 
-div#wall #tag-3.slick {
+#wall #tag-3.slick {
   background: transparent;
   z-index: 4;
   display: none;
