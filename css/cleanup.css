@@ -7,3 +7,6 @@
 #wall #tag-3 {
   display: none;
 }
+#wall .parent {
+  display: none;
+}
