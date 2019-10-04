@@ -13,7 +13,7 @@
 #wall .parent #tag-5.slick {
   display: none;
 }
-#wall #tag-4 {
+#wall .parent #tag-4 {
   display: none;
 }
 div#wall div.parent div:last-child div#tag-6 {
